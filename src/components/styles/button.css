@@ -1,0 +1,22 @@
+.but {
+    font-size: 24px;
+    padding: 15px;
+    border-radius: 20px;
+    border: 0;
+    color: rgb(215, 171, 58);
+    background-color: rgb(60, 118, 1);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.but:hover {
+    box-shadow: 0 0 5px #eeeeee inset;
+    background-color: gold;
+    color: rgb(60, 118, 1);
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}

@@ -1,0 +1,22 @@
+.card-container {
+
+width: 560px;
+height: 700px;
+
+margin: 30px;
+
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.green {
+    background-color: rgb(47, 192, 47);
+    color: rgb(211, 222, 94)
+}
+
+.yellow {
+    background-color: rgb(211, 222, 94);
+    color:rgb(47, 192, 47);
+}
